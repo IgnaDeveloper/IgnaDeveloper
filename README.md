@@ -8,9 +8,6 @@
   <a href="https://instagram.com/IgnaDeveloper"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110" alt="Instagram Badge"/></a>
   <a href="https://twitter.com/IgnaDeveloper"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="97"/></a>
 </div>
-<div align="center">
-  <a href="https://drive.google.com/file/d/1nX0jZ5ZTemDfu6FXl_-b02XsN72qHd3O/view?usp=sharing" />📝 Know my skills</a>
-</div>
 
 ![](https://komarev.com/ghpvc/?username=IgnaDeveloper)
 
